@@ -33,6 +33,6 @@ Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.h
 In case of red failure for a test, just click on it to get more related information
 
 ## External libraries used
-- [jQuery](https://jquery.com/) - v. 3.3.1
+- [jQuery](https://jquery.com/) - v. 3.2.1
 - [Jasmine](https://jasmine.github.io/) - v. 3.1.0
 - [Jasmine-Jquery](https://github.com/velesin/jasmine-jquery) - v. 2.1.1
