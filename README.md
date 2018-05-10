@@ -21,13 +21,18 @@ After the first click, the **Admin button** will also be activated. Upon click, 
 
 Open the file jasmine-workshop/jasmine/jasmine-standalone-3.1.0/AppHelper.js and start adding your desired specs within the suites. Hints have been provided, e.g.:
 
-```it('$spec_description_here', function() {```
+```it('ensures cats are defined', function()```
 
-This file will parse the logic of jasmine-workshop/jasmine/jasmine-standalone-3.1.0/src/app.js and will run tests against it.
+AppHelper.js will parse the logic of jasmine-workshop/jasmine/jasmine-standalone-3.1.0/src/app.js and will run tests against it.
 
-Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html in the broswer and check the test results at the bottom of the page. In case of failure for a test, click on it to get more related information
+Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html in the broswer and check the test results at the bottom of the page:
+
+![A screenshot of the starting app](https://github.com/alffox/jasmine-workshop/blob/master/jasmine/jasmine-standalone-3.1.0/images/preview.png)
+*Cat photo by [Mikhail Vasilyev](https://unsplash.com/@miklevasilyev) via [Unsplash](https://unsplash.com/)*
+
+In case of red failure for a test, just click on it to get more related information
 
 ## External libraries used
-jQuery - v.
-Jasmine - v. 3.1.0
-Jasmine-Jquery - v. 2.1.1
+- [jQuery](https://jquery.com/) - v. 3.3.1
+- [Jasmine](https://jasmine.github.io/) - v. 3.1.0
+- [Jasmine-Jquery](https://github.com/velesin/jasmine-jquery) - v. 2.1.1
