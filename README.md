@@ -9,7 +9,7 @@ This project aims to provide a starter code to build Jasmine unit tests for this
 Download the repo on your PC locally and open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html with a browser of your choice.
 
 - **Method 2** (demo mode):
-Simply navigate to:
+Simply navigate to: https://alffox.github.io/jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html
 
 ## How to use the App
 
