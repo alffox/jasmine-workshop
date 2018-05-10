@@ -28,7 +28,7 @@ AppHelper.js will parse the logic of jasmine-workshop/jasmine/jasmine-standalone
 Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html in the broswer and check the test results at the bottom of the page:
 
 ![A screenshot of the starting app](https://github.com/alffox/jasmine-workshop/blob/master/jasmine/jasmine-standalone-3.1.0/images/preview.png)
-*Cat photo by [Mikhail Vasilyev](https://unsplash.com/@miklevasilyev) via [Unsplash](https://unsplash.com/)*
+*Fig. 1: Cat photo by [Mikhail Vasilyev](https://unsplash.com/@miklevasilyev) via [Unsplash](https://unsplash.com/)*
 
 In case of red failure for a test, just click on it to get more related information
 
