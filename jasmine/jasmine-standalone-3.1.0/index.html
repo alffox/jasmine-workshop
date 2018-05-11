@@ -20,6 +20,8 @@
 <body>
     <h1>My Cat Clicker App</h1>
 
+    <button onclick="hideJasmineResults()">Hide Jasmine results panel</button>
+
     <div class="container">
 
         <ul class="cat-list"></ul>
@@ -47,6 +49,12 @@
 
     <!-- include spec files here... -->
     <script src="spec/AppHelper.js"></script>
+
+    <script>
+        function hideJasmineResults() {
+            $('.jasmine_html-reporter').toggle();
+        }
+    </script>
 
 </body>
 
