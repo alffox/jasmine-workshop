@@ -6,7 +6,9 @@ This project aims to provide a starter code to build Jasmine unit tests for this
 ## How to consume the code of this repo
 
 - **Method 1** (recommended - required for trainees):
-Download the repo on your PC locally and open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html?random=false with a browser of your choice (please note the ```?random=false``` appended to the URL)
+Download the repo on your PC locally and open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html?random=false with a browser of your choice
+
+**Important !** Please note the ```?random=false``` param appended to the URL, this is needed as the app has functionalities based on some logical workflows, running tests randomly may lead to failures.
 
 - **Method 2** (demo mode):
 Simply navigate to: https://alffox.github.io/jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html?random=false
@@ -23,7 +25,7 @@ Open the file jasmine-workshop/jasmine/jasmine-standalone-3.1.0/AppHelper.js and
 
 ```it('ensures cats are defined', function()```
 
-AppHelper.js will parse the logic of jasmine-workshop/jasmine/jasmine-standalone-3.1.0/src/app.js and will run tests against it.
+AppHelper.js will parse the logic of https://github.com/alffox/jasmine-workshop/blob/master/jasmine/jasmine-standalone-3.1.0/src/app.js and will run tests against it.
 
 Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.html?random=false in the browser and check the test results at the bottom of the page:
 
