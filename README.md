@@ -30,7 +30,9 @@ Once done, simply open jasmine-workshop/jasmine/jasmine-standalone-3.1.0/index.h
 ![A screenshot of the starting app](https://github.com/alffox/jasmine-workshop/blob/master/jasmine/jasmine-standalone-3.1.0/images/preview.png)
 *Fig. 1: Cat photo by [Mikhail Vasilyev](https://unsplash.com/@miklevasilyev) via [Unsplash](https://unsplash.com/)*
 
-In case of red failure for a test, just click on it to get more related information
+In case of red failure for a test, just click on it to get more related information.
+
+My **solutions** are here: https://github.com/alffox/jasmine-workshop/blob/master/jasmine/jasmine-standalone-3.1.0/spec/AppHelperSolutions.js, it is important to mention that this is only the code I came up with and you can implement your logic in any other preferred ways.
 
 ## External libraries used
 - [jQuery](https://jquery.com/) - v. 3.2.1
